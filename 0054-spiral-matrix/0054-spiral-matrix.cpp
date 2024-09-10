@@ -23,15 +23,13 @@ public:
             for(int j = right; j >= left; j--){
                res.push_back(matrix[bottom][j]);
             }
-            }
-            bottom--;
+            bottom--; }
             
             if(left<=right){
             for(int i = bottom; i >= top; i--){
                res.push_back(matrix[i][left]);
             }
-            }
-            left++;
+            left++;}
             
         }
       return res;
