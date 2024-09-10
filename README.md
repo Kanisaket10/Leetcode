@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/Kanisaket10/Leetcode/tree/master/0198-house-robber) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
