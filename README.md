@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0198-house-robber](https://github.com/Kanisaket10/Leetcode/tree/master/0198-house-robber) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Kanisaket10/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
