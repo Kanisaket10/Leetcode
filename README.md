@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Kanisaket10/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Kanisaket10/Leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanisaket10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Kanisaket10/Leetcode/tree/master/1205-defanging-an-ip-address) |
