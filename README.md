@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Kanisaket10/Leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
