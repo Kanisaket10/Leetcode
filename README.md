@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Kanisaket10/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Kanisaket10/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kanisaket10/Leetcode/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/Kanisaket10/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Kanisaket10/Leetcode/tree/master/0136-single-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanisaket10/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kanisaket10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanisaket10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
