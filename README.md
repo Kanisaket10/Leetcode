@@ -168,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanisaket10/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Kanisaket10/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Kanisaket10/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
