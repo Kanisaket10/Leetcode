@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Kanisaket10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Kanisaket10/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Kanisaket10/Leetcode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Kanisaket10/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kanisaket10/Leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
+| [0432-all-oone-data-structure](https://github.com/Kanisaket10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanisaket10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kanisaket10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanisaket10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kanisaket10/Leetcode/tree/master/0155-min-stack) |
+| [0432-all-oone-data-structure](https://github.com/Kanisaket10/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Kanisaket10/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Kanisaket10/Leetcode/tree/master/0859-design-circular-deque) |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Kanisaket10/Leetcode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Kanisaket10/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
