@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kanisaket10/Leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/Kanisaket10/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanisaket10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanisaket10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kanisaket10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Kanisaket10/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Kanisaket10/Leetcode/tree/master/0686-repeated-string-match) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanisaket10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Kanisaket10/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanisaket10/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanisaket10/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
