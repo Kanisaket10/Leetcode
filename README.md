@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanisaket10/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kanisaket10/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Kanisaket10/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kanisaket10/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kanisaket10/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kanisaket10/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanisaket10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Kanisaket10/Leetcode/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kanisaket10/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kanisaket10/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
