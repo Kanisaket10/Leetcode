@@ -24,6 +24,8 @@ public:
         // InOrd(root, ans);
         // return ans;
 
+
+// Morris traversal with Time Complexity O(n) and Space Complexity O(1)
         while(root){
             //if left part doesn't exist
             if(!root->left){
