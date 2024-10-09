@@ -21,7 +21,37 @@ public:
     }
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        InOrd(root, ans);
+        // InOrd(root, ans);
+        // return ans;
+
+        while(root){
+            //if left part doesn't exist
+            if(!root->left){
+                ans.push_back(root->val);
+                root = root->right;
+            }
+            // if left part exist
+            else{
+                TreeNode* curr = root->left;
+                while(curr->right && curr->right != root){
+                    curr = curr->right;
+                }
+                // if left part is not traversed that means
+                // curr->right will be equal to NULL
+                if(curr->right == NULL){
+                    curr->right = root;
+                    root = root->left;
+                }
+                // if left part is traversed that means 
+                //curr->right will be equal to root node 
+                else{
+                    curr->right = NULL;
+                    ans.push_back(root->val);
+                    root = root->right;   
+                }
+                
+            }
+        }
         return ans;
     }
 };
