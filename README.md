@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Kanisaket10/Leetcode/tree/master/0686-repeated-string-match) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanisaket10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kanisaket10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/Kanisaket10/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kanisaket10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/Kanisaket10/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Kanisaket10/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kanisaket10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Kanisaket10/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanisaket10/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Kanisaket10/Leetcode/tree/master/0155-min-stack) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kanisaket10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kanisaket10/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kanisaket10/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
