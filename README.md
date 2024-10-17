@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanisaket10/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Kanisaket10/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Kanisaket10/Leetcode/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Kanisaket10/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kanisaket10/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Kanisaket10/Leetcode/tree/master/0409-longest-palindrome) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kanisaket10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Kanisaket10/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kanisaket10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Kanisaket10/Leetcode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kanisaket10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
