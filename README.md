@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kanisaket10/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanisaket10/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kanisaket10/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kanisaket10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kanisaket10/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kanisaket10/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kanisaket10/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kanisaket10/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kanisaket10/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Kanisaket10/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kanisaket10/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanisaket10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kanisaket10/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kanisaket10/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kanisaket10/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2755-extra-characters-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Kanisaket10/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kanisaket10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanisaket10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1970-sorting-the-sentence](https://github.com/Kanisaket10/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kanisaket10/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kanisaket10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2887-sort-vowels-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Kanisaket10/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kanisaket10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Kanisaket10/Leetcode/tree/master/1304-longest-happy-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kanisaket10/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kanisaket10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kanisaket10/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Kanisaket10/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Kanisaket10/Leetcode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Kanisaket10/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kanisaket10/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Kanisaket10/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kanisaket10/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Kanisaket10/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Kanisaket10/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
