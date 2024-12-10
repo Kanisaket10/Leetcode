@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanisaket10/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0371-sum-of-two-integers](https://github.com/Kanisaket10/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Kanisaket10/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Kanisaket10/Leetcode/tree/master/0670-maximum-swap) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kanisaket10/Leetcode/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Kanisaket10/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanisaket10/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kanisaket10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanisaket10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
