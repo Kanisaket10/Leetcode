@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Kanisaket10/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Kanisaket10/Leetcode/tree/master/0670-maximum-swap) |
+| [2050-count-good-numbers](https://github.com/Kanisaket10/Leetcode/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Kanisaket10/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanisaket10/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Kanisaket10/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/Kanisaket10/Leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
