@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kanisaket10/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanisaket10/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Kanisaket10/Leetcode/tree/master/0198-house-robber) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Kanisaket10/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Kanisaket10/Leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanisaket10/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0371-sum-of-two-integers](https://github.com/Kanisaket10/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Kanisaket10/Leetcode/tree/master/0415-add-strings) |
@@ -470,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0040-combination-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kanisaket10/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
