@@ -37,5 +37,22 @@ public:
         }
        }
        return dp[m-1][n-1];
+
+       // Space Optimization
+       vector<int> prev(n, INT_MAX);
+       for(int i=0; i<m; i++){
+        vector<int> curr(n, INT_MAX);
+        for(int j=0; j<n; j++){
+            if(i==0 && j==0) curr[j] = grid[i][j];
+            else{
+                 int up =INT_MAX, left= INT_MAX;
+                if(i>0) up = prev[j];
+                if(j>0) left = curr[j-1];
+               curr[j] = grid[i][j]+ min(up, left);
+            } 
+        }
+        prev = curr;
+       }
+       return prev[n-1];
     }
 };
