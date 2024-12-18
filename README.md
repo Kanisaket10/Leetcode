@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/Kanisaket10/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kanisaket10/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kanisaket10/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1677-matrix-diagonal-sum](https://github.com/Kanisaket10/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanisaket10/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Kanisaket10/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kanisaket10/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/Kanisaket10/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/Kanisaket10/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2411-spiral-matrix-iv](https://github.com/Kanisaket10/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
