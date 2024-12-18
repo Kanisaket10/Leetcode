@@ -32,23 +32,45 @@ public:
         //      ans = min(ans, memo(n-1, j, n, matrix, dp));
         // } 
 
-        vector<vector<int>> dp(n, vector<int>(n, 0));
-        for(int j=0; j<n; j++){
-            dp[0][j] = matrix[0][j];
-        }
+      // Tabulation
+        // vector<vector<int>> dp(n, vector<int>(n, 0));
+        // for(int j=0; j<n; j++){
+        //     dp[0][j] = matrix[0][j];
+        // }
 
-        for(int i=1; i<n; i++){
+        // for(int i=1; i<n; i++){
+        //     for(int j=0; j<n; j++){
+        //         int dl =INT_MAX, dr = INT_MAX;
+        //         int down = dp[i-1][j];
+        //         if(j-1>=0) dl = dp[i-1][j-1];
+        //         if(j+1<n) dr = dp[i-1][j+1];
+        //         dp[i][j] = matrix[i][j] + min(down, min(dl, dr));
+        //     }
+        // }
+        //  for(int j=0; j<n; j++){
+        //     ans = min(ans, dp[n-1][j]);
+        // }  
+       
+       // Space Optimization
+       vector<int> prev(n, 0), curr(n,0);
+        for(int j=0; j<n; j++){
+            prev[j] = matrix[0][j];
+        }
+        
+         for(int i=1; i<n; i++){
             for(int j=0; j<n; j++){
                 int dl =INT_MAX, dr = INT_MAX;
-                int down = dp[i-1][j];
-                if(j-1>=0) dl = dp[i-1][j-1];
-                if(j+1<n) dr = dp[i-1][j+1];
-                dp[i][j] = matrix[i][j] + min(down, min(dl, dr));
+                int down = prev[j];
+                if(j-1>=0) dl = prev[j-1];
+                if(j+1<n) dr = prev[j+1];
+                curr[j] = matrix[i][j] + min(down, min(dl, dr));
             }
+            prev = curr;
         }
-         for(int j=0; j<n; j++){
-            ans = min(ans, dp[n-1][j]);
-        }  
+        
+        for(int j=0; j<n; j++){
+            ans = min(ans, prev[j]);
+        } 
 
        return ans;
     }
