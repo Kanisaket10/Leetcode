@@ -40,5 +40,20 @@ public:
         }
       }
       return (int)dp[n][m];
+
+      // Space Optimization
+      vector<double> prev(m+1, 0), cur(m+1, 0);
+      prev[0] = cur[0] = 1;
+
+      for(int i=1; i<=n; i++){
+        for(int j=1; j<=m; j++){
+            if(s[i-1]==t[j-1]){
+                cur[j] = prev[i-1]+ prev[j];
+            }
+            else cur[j] = prev[j];
+        }
+        cur = prev;
+      }
+      return prev[m];
     }
 };
