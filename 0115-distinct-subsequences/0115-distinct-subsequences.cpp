@@ -57,15 +57,15 @@ public:
     //   return prev[m];
 
       // space optimization with 1D array
-      vector<double> prev(m+1, 0);
-       prev[0] = 1;
+      vector<double> dp(m+1, 0);
+       dp[0] = 1;
       for(int i=1; i<=n; i++){
         for(int j=m; j>0; j--){
             if(s[i-1] == t[j-1]){
-                 prev[j] = prev[j] + prev[j-1];
+                 dp[j] = dp[j] + dp[j-1];
             }
         }
       }
-      return prev[m];
+      return dp[m];
     }
 };
