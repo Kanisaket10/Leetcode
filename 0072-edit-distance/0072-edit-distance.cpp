@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int f(int i, int j, string s1, string s2, vector<vector<double>>&dp){
+    int f(int i, int j, string s1, string s2, vector<vector<int>>&dp){
         if(i==0) return j;
         if(j==0) return i;
         
@@ -11,7 +11,7 @@ public:
     int minDistance(string word1, string word2) {
         int n = word1.size();
         int m = word2.size();
-        vector<vector<double>> dp(n+1, vector<double>(m+1, -1));
+        vector<vector<int>> dp(n+1, vector<int>(m+1, -1));
         return f(n, m, word1, word2, dp);
     }
 };
