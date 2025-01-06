@@ -18,8 +18,8 @@ public:
         // Tabulation
         vector<vector<int>> dp(n+1, vector<int> (m+1, 0));
 
-        for(int j=0; j<=m; j++) dp[0][j] = j;
-        for(int i=0; i<=n; i++) dp[i][0] = i;
+        for(int j=0; j<=m; j++) dp[0][j] = j; // first row
+        for(int i=0; i<=n; i++) dp[i][0] = i;  // first column
 
         for(int i=1; i<=n; i++){
             for(int j=1; j<=m; j++){
@@ -28,5 +28,22 @@ public:
             }
         }
         return dp[n][m];
+
+        // space Optimimzation 
+         
+       vector<int> prev(m+1, 0), cur(m+1, 0);
+
+        for(int j=0; j<=m; j++) prev[j] = j; // first row
+      //  for(int i=0; i<=n; i++) dp[i][0] = i;  // first column
+
+        for(int i=1; i<=n; i++){
+            cur[0] = i;
+            for(int j=1; j<=m; j++){
+                if(word1[i-1] == word2[j-1]) cur[j] = dp[i-1][j-1];
+                else cur[j] = 1+ min(cur[j-1], min(prev[j], prev[j-1]));
+            }
+            prev = cur;
+        }
+        return prev[m];
     }
 };
