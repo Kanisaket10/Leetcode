@@ -4,22 +4,34 @@ public:
      // optimize one
        int maxProfit(vector<int>& prices) {
         int n= prices.size();
-        int ptr = INT_MAX; 
-        int a=0;   
-        int b=0;
+        int profit = 0;
+        int mini = prices[0];
 
-        for(int i=0; i<n;i++){
-           if(prices[i] < ptr){
-               ptr = prices[i];
-           }
-            a = prices[i] - ptr;
-            if(b < a){
-                b = a;
-            }
+        for(int i=1; i<n; i++){
+            profit = max(profit, prices[i]-mini);
+            mini = min(mini, prices[i]);
         }
+        return profit;
+    
+
+
+
+    //     int ptr = INT_MAX; 
+    //     int a=0;   
+    //     int b=0;
+
+    //     for(int i=0; i<n;i++){
+    //        if(prices[i] < ptr){
+    //            ptr = prices[i];
+    //        }
+    //         a = prices[i] - ptr;
+    //         if(b < a){
+    //             b = a;
+    //         }
+    //     }
       
  
-    return b;
+    // return b;
         
     }
     // Brute force
