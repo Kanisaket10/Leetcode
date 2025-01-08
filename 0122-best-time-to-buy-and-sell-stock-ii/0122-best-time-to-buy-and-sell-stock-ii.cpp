@@ -20,20 +20,20 @@ public:
         // return solve(0, 1, n, prices, dp);
 
         // Tabulation
-        vector<vector<long long>> dp(n+1, vector<long long>(2, 0));
-        dp[n][1] = dp[n][0] = 0;
+        // vector<vector<long long>> dp(n+1, vector<long long>(2, 0));
+        // dp[n][1] = dp[n][0] = 0;
 
-        for(int i=n-1; i>=0; i--){
-            for(int b=0; b<=1; b++){
-                if(b){
-                    dp[i][b] = max((-prices[i]+dp[i+1][0]), dp[i+1][1]);
-                }
-                else{
-                    dp[i][b] = max((prices[i]+dp[i+1][1]), dp[i+1][0]);
-                }
-            }
-        }
-        return dp[0][1];
+        // for(int i=n-1; i>=0; i--){
+        //     for(int b=0; b<=1; b++){
+        //         if(b){
+        //             dp[i][b] = max((-prices[i]+dp[i+1][0]), dp[i+1][1]);
+        //         }
+        //         else{
+        //             dp[i][b] = max((prices[i]+dp[i+1][1]), dp[i+1][0]);
+        //         }
+        //     }
+        // }
+        // return dp[0][1];
         
         //Space optimization
         vector<int> ahead(2, 0), cur(2, 0);
