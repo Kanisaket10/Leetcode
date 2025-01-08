@@ -36,20 +36,28 @@ public:
         // return dp[0][1];
         
         //Space optimization
-        vector<int> ahead(2, 0), cur(2, 0);
+        // vector<int> ahead(2, 0), cur(2, 0);
         
-         for(int i=n-1; i>=0; i--){
-            for(int b=0; b<=1; b++){
-                if(b){
-                    cur[b] = max((-prices[i]+ahead[0]), ahead[1]);
-                }
-                else{
-                    cur[b] = max((prices[i]+ahead[1]), ahead[0]);
-                }
-            }
-            ahead = cur;
+        //  for(int i=n-1; i>=0; i--){
+        //     for(int b=0; b<=1; b++){
+        //         if(b){
+        //             cur[b] = max((-prices[i]+ahead[0]), ahead[1]);
+        //         }
+        //         else{
+        //             cur[b] = max((prices[i]+ahead[1]), ahead[0]);
+        //         }
+        //     }
+        //     ahead = cur;
+        // }
+        // return ahead[1];
+
+        // optimization
+        int profit =0;
+        for(int i=1; i<n; i++){
+           if(prices[i] > prices[i-1]){
+            profit += prices[i]-prices[i-1];
+           }
         }
-        return ahead[1];
-        
+        return profit;
     }
 };
