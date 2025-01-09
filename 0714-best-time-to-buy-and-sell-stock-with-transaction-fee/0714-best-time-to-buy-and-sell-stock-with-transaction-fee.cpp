@@ -15,13 +15,22 @@ public:
         // return solve(0, 1, n,fee, prices, dp);
 
         // Tabulation
-        vector<vector<int>> dp(n+1, vector<int>(2, 0));
-        dp[n][0] = 0, dp[n][1] = 0;
+        // vector<vector<int>> dp(n+1, vector<int>(2, 0));
+        // dp[n][0] = 0, dp[n][1] = 0;
 
+        // for(int i=n-1; i>=0; i--){
+        //     dp[i][1]=max(-prices[i]+dp[i+1][0],dp[i+1][1]);
+        //     dp[i][0]= max(prices[i]+dp[i+1][1] - fee, dp[i+1][0]);
+        // }
+        // return dp[0][1];
+
+        //space Optimization
+        vector<int> next(2, 0), curr(2, 0);
         for(int i=n-1; i>=0; i--){
-            dp[i][1]=max(-prices[i]+dp[i+1][0],dp[i+1][1]);
-            dp[i][0]= max(prices[i]+dp[i+1][1] - fee, dp[i+1][0]);
+            curr[1] = max(-prices[i]+next[0], next[1]);
+            curr[0] = max(prices[i]+next[1]-fee, next[0]);
+            next = curr;
         }
-        return dp[0][1];
+        return next[1];
     }
 };
