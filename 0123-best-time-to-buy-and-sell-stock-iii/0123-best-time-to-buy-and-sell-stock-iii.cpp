@@ -16,7 +16,7 @@ public:
         // return solve(0, 1, 2, n, prices, dp);
 
         // Tabulation
-        vector<vector<vector<double>>> dp(n+1, vector<vector<double>>(2, vector<double>(3, 0)));
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(3, 0)));
          
          for(int cap =0; cap<=2; cap++){
             dp[n][0][cap] = 0;
