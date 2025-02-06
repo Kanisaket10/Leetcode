@@ -19,8 +19,8 @@ public:
         vector<int> Indeg(numCourses, 0);
 
         for(auto &edge: prerequisites){
-            int u = edge[0];
-            int v = edge[1];
+            int u = edge[1];
+            int v = edge[0];
             graph[u].push_back(v);
             Indeg[v]++;
         }
