@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kanisaket10/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Kanisaket10/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kanisaket10/Leetcode/tree/master/0041-first-missing-positive) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kanisaket10/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Kanisaket10/Leetcode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/Kanisaket10/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Kanisaket10/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
