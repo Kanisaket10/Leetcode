@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kanisaket10/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Kanisaket10/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Kanisaket10/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Kanisaket10/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Kanisaket10/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanisaket10/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kanisaket10/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kanisaket10/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Kanisaket10/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Kanisaket10/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Kanisaket10/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Kanisaket10/Leetcode/tree/master/0139-word-break) |
