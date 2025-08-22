@@ -1,31 +1,47 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        int n = intervals.size();
-        intervals.push_back(newInterval);
-        sort(intervals.begin(), intervals.end());
-
+        int n = intervals.size(), i = 0;
         vector<vector<int>> ans;
 
-        int first=intervals[0][0];
-        int second=intervals[0][1];
+        while (i < n && intervals[i][1] < newInterval[0]) {
+            ans.push_back(intervals[i]);
+            i++;
+        }
 
-       for(int i=0;i<intervals.size()-1;i++){
-          if(second>=intervals[i+1][0])
-          second=max(second,intervals[i+1][1]);         // overlapping.
+        while (i < n && newInterval[1] >= intervals[i][0]) {
+            newInterval[0] = min(newInterval[0], intervals[i][0]);
+            newInterval[1] = max(newInterval[1], intervals[i][1]);
+            i++;
+        }
+        ans.push_back(newInterval);
 
-          else{
-            vector<int>temp;
-            temp.push_back(first);
-            temp.push_back(second);
-            ans.push_back(temp);
-            first=intervals[i+1][0];
-            second=intervals[i+1][1];
-          }
-       }
+        while (i < n) {
+            ans.push_back(intervals[i]);
+            i++;
+        }
+        return ans;
+    
+        
+    //     int first=intervals[0][0];
+    //     int second=intervals[0][1];
 
-       ans.push_back({first,second});
+    //    for(int i=0;i<intervals.size()-1;i++){
+    //       if(second>=intervals[i+1][0])
+    //       second=max(second,intervals[i+1][1]);         // overlapping.
 
-       return ans;
+    //       else{
+    //         vector<int>temp;
+    //         temp.push_back(first);
+    //         temp.push_back(second);
+    //         ans.push_back(temp);
+    //         first=intervals[i+1][0];
+    //         second=intervals[i+1][1];
+    //       }
+    //    }
+
+    //    ans.push_back({first,second});
+
+      // return ans;
     }
 };
