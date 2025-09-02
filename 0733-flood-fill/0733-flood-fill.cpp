@@ -23,11 +23,39 @@ public:
 
     }
 
+    void bfs(int row, int col, vector<vector<int>>& ans, vector<vector<int>>& image, int color, int inicolor){
+        
+        int n = image.size();
+        int m = image[0].size();
+
+        ans[row][col] = color;
+        queue<pair<int, int>> q;
+        q.push({row, col});
+
+        while(!q.empty()){
+            int r = q.front().first;
+            int c = q.front().second;
+            ans[r][c] = color;
+            q.pop();
+
+            for(int j=0; j<4; j++){
+                int dr = r + dirrow[j];
+                int dc = c + dircol[j];
+
+                if(valid(dr, dc, n, m) && image[dr][dc] == inicolor && ans[dr][dc] != color){
+                    q.push({dr, dc});
+                }
+            }
+
+        }
+    }
+
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int inicolor = image[sr][sc];
         vector<vector<int>> ans = image;
 
-        dfs(sr, sc, ans, image, color, inicolor);
+       // dfs(sr, sc, ans, image, color, inicolor);
+        bfs(sr, sc, ans, image, color, inicolor);
         return ans;
     }
 };
