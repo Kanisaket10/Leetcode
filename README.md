@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Kanisaket10/Leetcode/tree/master/0859-design-circular-deque) |
 | [0967-minimum-falling-path-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Kanisaket10/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kanisaket10/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Kanisaket10/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Kanisaket10/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kanisaket10/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Kanisaket10/Leetcode/tree/master/0686-repeated-string-match) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanisaket10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kanisaket10/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kanisaket10/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1170-shortest-common-supersequence](https://github.com/Kanisaket10/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/Kanisaket10/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Kanisaket10/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -601,12 +603,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Kanisaket10/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kanisaket10/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kanisaket10/Leetcode/tree/master/0547-number-of-provinces) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kanisaket10/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kanisaket10/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kanisaket10/Leetcode/tree/master/0547-number-of-provinces) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kanisaket10/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Kanisaket10/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/Kanisaket10/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2176-parallel-courses-iii](https://github.com/Kanisaket10/Leetcode/tree/master/2176-parallel-courses-iii) |
