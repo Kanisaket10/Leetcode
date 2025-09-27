@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kanisaket10/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanisaket10/Leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kanisaket10/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/Kanisaket10/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1300-critical-connections-in-a-network](https://github.com/Kanisaket10/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Trie
 |  |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kanisaket10/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanisaket10/Leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kanisaket10/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0871-keys-and-rooms](https://github.com/Kanisaket10/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Kanisaket10/Leetcode/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kanisaket10/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kanisaket10/Leetcode/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/Kanisaket10/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kanisaket10/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Kanisaket10/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/Kanisaket10/Leetcode/tree/master/1300-critical-connections-in-a-network) |
