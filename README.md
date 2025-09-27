@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Kanisaket10/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Kanisaket10/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Kanisaket10/Leetcode/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/Kanisaket10/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kanisaket10/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Kanisaket10/Leetcode/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanisaket10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kanisaket10/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kanisaket10/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanisaket10/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1039-find-the-town-judge](https://github.com/Kanisaket10/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanisaket10/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kanisaket10/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kanisaket10/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kanisaket10/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kanisaket10/Leetcode/tree/master/0547-number-of-provinces) |
+| [1039-find-the-town-judge](https://github.com/Kanisaket10/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/Kanisaket10/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2176-parallel-courses-iii](https://github.com/Kanisaket10/Leetcode/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
