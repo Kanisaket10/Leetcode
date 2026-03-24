@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Kanisaket10/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Kanisaket10/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/Kanisaket10/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Kanisaket10/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Kanisaket10/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Kanisaket10/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -643,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Kanisaket10/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kanisaket10/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
